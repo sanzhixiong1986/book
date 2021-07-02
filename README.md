@@ -3,7 +3,7 @@
 ## 客户端
 
 - cocos creater 开发
-  - puremvc
+  - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
   - 框架设计
 - 客户端算法
   - Flash ActionScript3.0 动画编程
