@@ -4,7 +4,7 @@
 
 - cocos creater 开发
   - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
-  - 框架设计
+  - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
 - 客户端算法
   - Flash ActionScript3.0 动画编程
   - Flash ActionScript3.0 动画高级编程
