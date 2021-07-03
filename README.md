@@ -11,7 +11,7 @@
 - 工具书
   - head first 设计模式
   - 设计模式基础
-  - 重构
+  - [重构](https://github.com/sanzhixiong1986/Refactor)
   - 代码大全2
 - 数据结构
   - head first 数据结构
