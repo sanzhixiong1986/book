@@ -10,7 +10,6 @@
   - Flash ActionScript3.0 动画高级编程
 - 工具书
   - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
-  - 设计模式基础
   - [重构](https://github.com/sanzhixiong1986/Refactor)
   - 代码大全2
 - 数据结构
