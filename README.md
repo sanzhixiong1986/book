@@ -24,10 +24,8 @@
 
 - Java
   - Netty
-  - Mina
 - c++
   - libuv 
-  - skynet
 - 协议
   - protobuf
   - flatBuffers
