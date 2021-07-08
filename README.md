@@ -8,10 +8,17 @@
 - 客户端算法
   - Flash ActionScript3.0 动画编程
   - Flash ActionScript3.0 动画高级编程
+  - 游戏算法与技巧
 - 工具书
-  - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
-  - [重构](https://github.com/sanzhixiong1986/Refactor)
-  - 代码大全2
+  - 设计相关
+    - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
+    - 游戏编程模式
+    - 面向对象分析与设计
+  - 代码结构
+    - [重构](https://github.com/sanzhixiong1986/Refactor)
+    - 代码大全2
+    - 修改代码艺术
+    - 重构与模式
 - 数据结构
   - head first 数据结构
   - 算法导论
