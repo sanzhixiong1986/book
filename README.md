@@ -34,19 +34,19 @@
 - c++
   - libuv 
 - 协议
-  - protobuf
-  - flatBuffers
-  - MessagePack
+  - [protobuf](https://developers.google.com/protocol-buffers)
+  - [flatBuffers](https://halfrost.com/flatbuffers_schema/)
+  - [MessagePack](https://msgpack.org)
 
 
 
 ## 持久化
 
 - java
-  - Mybatis
-  - druid
+  - [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
+  - [druid](https://github.com/alibaba/druid)
 - c
-  - mysqlclient
+  - [mysqlclient](https://pypi.org/project/mysqlclient/)
 
 
 
@@ -81,3 +81,6 @@
 - [少有人走的路](https://github.com/fancy88/iBook/blob/master/%E3%80%90%E7%B2%BE%E3%80%91%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.epub)
 
 ### 
+
+------
+
