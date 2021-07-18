@@ -52,9 +52,9 @@
 
 ## 游戏的AI
 
-- gdx-ai lingdx下的一个ai系统
-- recastnavigation 非常高效寻路的算法
-- Serpent.AI 游戏代理框架，适合写外挂
+- [gdx-ai lingdx下的一个ai系统](https://github.com/libgdx/gdx-ai)
+- [recastnavigation 非常高效寻路的算法](https://github.com/recastnavigation/recastnavigation)
+- [Serpent.AI 游戏代理框架，适合写外挂](https://github.com/SerpentAI/SerpentAI)
 
 
 
