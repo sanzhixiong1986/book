@@ -15,14 +15,12 @@
   - 设计相关
     - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
     - 游戏编程模式
-    - 面向对象分析与设计
   - 代码结构
     - [重构](https://github.com/sanzhixiong1986/Refactor)
     - 代码大全2
     - 修改代码艺术
-    - 重构与模式
 - 数据结构
-  - head first 数据结构
+  - 算法4
   - 算法导论
 
 
@@ -30,8 +28,6 @@
 ## 服务器
 
 ## 网络
-
-- 计算机网络
 
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
@@ -82,3 +78,9 @@
 
 ------
 
+技术必读书籍
+
+- 计算机网络 tcp/ip 协议
+- 计算机网络 tcp/ip 实现
+- 现代操作系统
+- Unix系统高级编程（网络部分）
