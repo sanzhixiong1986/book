@@ -5,7 +5,7 @@
 - cocos creater 开发
   - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
-  - cocos creater优化
+  - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - Shader
 - 客户端算法
   - Flash ActionScript3.0 动画编程
