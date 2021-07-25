@@ -5,6 +5,8 @@
 - cocos creater 开发
   - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
+  - cocos creater优化
+  - Shader
 - 客户端算法
   - Flash ActionScript3.0 动画编程
   - Flash ActionScript3.0 动画高级编程
@@ -27,7 +29,13 @@
 
 ## 服务器
 
+------
+
+
+
 ## 网络
+
+- 计算机网络
 
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
@@ -37,6 +45,8 @@
   - [protobuf](https://developers.google.com/protocol-buffers)
   - [flatBuffers](https://halfrost.com/flatbuffers_schema/)
   - [MessagePack](https://msgpack.org)
+
+------
 
 
 
@@ -48,6 +58,8 @@
 - c
   - [mysqlclient](https://pypi.org/project/mysqlclient/)
 
+------
+
 
 
 ## 游戏的AI
@@ -55,14 +67,6 @@
 - [gdx-ai lingdx下的一个ai系统](https://github.com/libgdx/gdx-ai)
 - [recastnavigation 非常高效寻路的算法](https://github.com/recastnavigation/recastnavigation)
 - [Serpent.AI 游戏代理框架，适合写外挂](https://github.com/SerpentAI/SerpentAI)
-
-
-
-## 学习资源
-
-后端架构师技术图谱
-
-
 
 ------
 
@@ -79,8 +83,6 @@
 #### 人生
 
 - [少有人走的路](https://github.com/fancy88/iBook/blob/master/%E3%80%90%E7%B2%BE%E3%80%91%E5%B0%91%E6%9C%89%E4%BA%BA%E8%B5%B0%E7%9A%84%E8%B7%AF.epub)
-
-### 
 
 ------
 
