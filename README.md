@@ -20,7 +20,7 @@
     - 代码大全2
     - 修改代码艺术
 - 数据结构
-  - 算法4
+  - [算法4](https://github.com/sanzhixiong1986/DataStructures)
   - 算法导论
 
 
