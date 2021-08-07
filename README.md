@@ -31,8 +31,6 @@
   - [算法4](https://github.com/sanzhixiong1986/DataStructures)
   - 算法导论
   - [游戏算法与技巧](https://github.com/sanzhixiong1986/GameAlgorithm)
-  - Flash ActionScript3.0 动画高级编程
-  - Flash ActionScript3.0 动画编程
 
 
 
