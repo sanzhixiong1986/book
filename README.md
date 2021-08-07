@@ -7,6 +7,18 @@
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
   - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - [Shader](https://github.com/sanzhixiong1986/Shader)
+- u3d开发
+  - u3d puremvc搭建
+  - u3d 小项目
+  - u3d 扩展
+  - u3d 热更
+    - xlua
+    - ILRuntime的热更框架
+  - 3d 算法
+  - u3d 进阶
+  - u3d shader实战
+  - 优化
+  - 面试总结
 - 客户端算法
   - Flash ActionScript3.0 动画编程
   - Flash ActionScript3.0 动画高级编程
