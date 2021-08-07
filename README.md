@@ -19,10 +19,6 @@
   - u3d shader实战
   - 优化
   - 面试总结
-- 客户端算法
-  - Flash ActionScript3.0 动画编程
-  - Flash ActionScript3.0 动画高级编程
-  - 游戏算法与技巧
 - 工具书
   - 设计相关
     - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
@@ -31,9 +27,12 @@
     - [重构](https://github.com/sanzhixiong1986/Refactor)
     - 代码大全2
     - 修改代码艺术
-- 数据结构
+- 数据结构与算法
   - [算法4](https://github.com/sanzhixiong1986/DataStructures)
   - 算法导论
+  - 游戏算法与技巧
+  - Flash ActionScript3.0 动画高级编程
+  - Flash ActionScript3.0 动画编程
 
 
 
