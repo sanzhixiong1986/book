@@ -30,6 +30,8 @@
 - 数据结构与算法
   - [算法4](https://github.com/sanzhixiong1986/DataStructures)
   - 算法导论
+    - [网上视频学习](https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2T1JGF)
+    - [读书笔记](https://github.com/sanzhixiong1986/GameAlgorithm)
   - [游戏算法与技巧](https://github.com/sanzhixiong1986/GameAlgorithm)
 
 
