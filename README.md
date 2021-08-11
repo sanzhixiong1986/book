@@ -7,6 +7,7 @@
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
   - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - [Shader](https://github.com/sanzhixiong1986/Shader)
+  - [js/ts面试常见问题](js/ts面试常见问题)
 - u3d开发
   - u3d puremvc搭建
   - u3d 小项目
