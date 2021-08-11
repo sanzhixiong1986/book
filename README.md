@@ -7,7 +7,7 @@
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
   - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - [Shader](https://github.com/sanzhixiong1986/Shader)
-  - [js/ts面试常见问题](js/ts面试常见问题)
+  - [js/ts面试常见问题](https://www.muyiy.cn/)
 - u3d开发
   - u3d puremvc搭建
   - u3d 小项目
@@ -35,7 +35,7 @@
     - [读书笔记](https://github.com/sanzhixiong1986/algorithm)
   - [游戏算法与技巧](https://github.com/sanzhixiong1986/GameAlgorithm)
 - 常见问题解决方案
-  - js Array.sort 使用那个算法
+  - [js Array.sort 使用那个算法](https://segmentfault.com/a/1190000010648740)
 
 
 
