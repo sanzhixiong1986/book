@@ -23,7 +23,6 @@
 - 工具书
   - 设计相关
     - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
-    - 游戏编程模式
   - 代码结构
     - [重构](https://github.com/sanzhixiong1986/Refactor)
     - 代码大全2
