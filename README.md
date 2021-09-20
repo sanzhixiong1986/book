@@ -25,7 +25,6 @@
     - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
   - 代码结构
     - [重构](https://github.com/sanzhixiong1986/Refactor)
-    - 代码大全2
     - 修改代码艺术
 - 数据结构与算法
   - [算法4](https://github.com/sanzhixiong1986/DataStructures)
@@ -44,6 +43,7 @@
 
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
+  - [坦克大战 java swing + netty版本]([sanzhixiong1986/NettyTank: 网络版坦克 (github.com)](https://github.com/sanzhixiong1986/NettyTank))
 - c++
   - [libuv](https://github.com/libuv/libuv) 
   - 使用心得
