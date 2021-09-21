@@ -43,7 +43,7 @@
 
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
-  - [坦克大战 java swing + netty版本]([sanzhixiong1986/NettyTank: 网络版坦克 (github.com)](https://github.com/sanzhixiong1986/NettyTank))
+  - [坦克大战 java swing + netty版本](https://github.com/sanzhixiong1986/NettyTank)
 - c++
   - [libuv](https://github.com/libuv/libuv) 
   - 使用心得
