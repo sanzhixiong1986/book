@@ -44,6 +44,8 @@
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
   - [坦克大战 java swing + netty版本](https://github.com/sanzhixiong1986/NettyTank)
+- Pomelo
+  - [游戏的入门]
 - c++
   - [libuv](https://github.com/libuv/libuv) 
   - 使用心得
