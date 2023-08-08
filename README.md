@@ -46,7 +46,7 @@
   - [坦克大战 java swing + netty版本](https://github.com/sanzhixiong1986/NettyTank)
 - Pomelo
   - [游戏的入门](https://github.com/sanzhixiong1986/Pomelo)
-  - [Nodejs游戏服务器开发]
+  - [Nodejs游戏服务器开发](https://github.com/sanzhixiong1986/nodejs)
 - c++
   - [libuv](https://github.com/libuv/libuv) 
   - 使用心得
