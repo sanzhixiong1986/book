@@ -44,6 +44,7 @@
 - Java
   - [Netty入门开源服务器](https://github.com/sanzhixiong19860117/studyNetty)
   - [坦克大战 java swing + netty版本](https://github.com/sanzhixiong1986/NettyTank)
+  - [外卖项目](https://github.com/sanzhixiong1986/takeout)
 - Pomelo
   - [游戏的入门](https://github.com/sanzhixiong1986/Pomelo)
   - [Nodejs游戏服务器开发](https://github.com/sanzhixiong1986/nodejs)
