@@ -13,14 +13,13 @@
   - 小项目
 - u3d开发
   - 框架设计
-  - u3d puremvc搭建
+    - u3d puremvc搭建
+
   - u3d 小项目
   - u3d 扩展
   - u3d 热更
     - xlua
     - ILRuntime的热更框架
-  - 3d 算法
-  - u3d 进阶
   - u3d shader实战
   - 优化
   - 面试总结
@@ -61,6 +60,12 @@
   - [protobuf](https://developers.google.com/protocol-buffers)
   - [flatBuffers](https://halfrost.com/flatbuffers_schema/)
   - [MessagePack](https://msgpack.org)
+- 数据库
+  - mysql
+    - [sql总结](https://github.com/sanzhixiong1986/Sql)
+
+  - redis
+
 
 ------
 
