@@ -6,12 +6,13 @@
   - 框架
     - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
     - [MVC框架设计](https://github.com/sanzhixiong1986/cccMVC)
-  
-  - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
-  - [Shader](https://github.com/sanzhixiong1986/Shader)
-  - [js/ts面试常见问题](https://www.muyiy.cn/)
-  
+  - 面试总结
+    - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
+    - [Shader](https://github.com/sanzhixiong1986/Shader)
+    - [js/ts面试常见问题](https://www.muyiy.cn/)
+  - 小项目
 - u3d开发
+  - 框架设计
   - u3d puremvc搭建
   - u3d 小项目
   - u3d 扩展
@@ -23,6 +24,7 @@
   - u3d shader实战
   - 优化
   - 面试总结
+
 - 工具书
   - 设计相关
     - [head first 设计模式](https://github.com/sanzhixiong1986/Design)
