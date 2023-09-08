@@ -3,11 +3,16 @@
 ## 客户端
 
 - cocos creater 开发
+  - 框架
+    - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
+    - [MVC框架设计](https://github.com/sanzhixiong1986/cccMVC)
+  
   - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
   - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
   - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - [Shader](https://github.com/sanzhixiong1986/Shader)
   - [js/ts面试常见问题](https://www.muyiy.cn/)
+  
 - u3d开发
   - u3d puremvc搭建
   - u3d 小项目
