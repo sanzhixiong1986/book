@@ -7,8 +7,6 @@
     - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
     - [MVC框架设计](https://github.com/sanzhixiong1986/cccMVC)
   
-  - [puremvc](https://github.com/sanzhixiong1986/puremvcCode.git)
-  - [框架设计](https://github.com/sanzhixiong1986/cccMVC)
   - [cocos creater优化](https://github.com/sanzhixiong1986/optimization)
   - [Shader](https://github.com/sanzhixiong1986/Shader)
   - [js/ts面试常见问题](https://www.muyiy.cn/)
