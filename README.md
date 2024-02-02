@@ -50,6 +50,7 @@
   - [坦克大战 java swing + netty版本](https://github.com/sanzhixiong1986/NettyTank)
   - [外卖项目](https://github.com/sanzhixiong1986/takeout)
   - [新闻项目](https://github.com/sanzhixiong1986/news)
+  - [Netty游戏服务器JSON版本](https://github.com/sanzhixiong1986/javaNettyJsonServer)
   - [java 面试总结](https://github.com/sanzhixiong1986/JavaGuide)
 - Pomelo
   - [游戏的入门](https://github.com/sanzhixiong1986/Pomelo)
