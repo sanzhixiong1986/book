@@ -56,7 +56,8 @@
   - [游戏的入门](https://github.com/sanzhixiong1986/Pomelo)
   - [Nodejs游戏服务器开发](https://github.com/sanzhixiong1986/nodejs)
 - c++
-  - [libuv](https://github.com/libuv/libuv) 
+  - [libuv](https://github.com/libuv/libuv)
+    - [libuv+lua服务器](https://github.com/sanzhixiong1986/libuvLua) 
   - 使用心得
 - 协议
   - [protobuf](https://developers.google.com/protocol-buffers)
